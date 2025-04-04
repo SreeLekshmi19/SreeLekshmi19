@@ -1,9 +1,11 @@
 Hi there! 👋 I'm Sree Lakshmi
 
-🎓 B.Tech CSE | Narayana Engineering College (3rd Year)<br>
-💻 Developer | Web and Android<br>
-🚀 Passionate about building impactful projects & solving real-world problems<br>
-📊 Exploring AI, Cloud, Compitative Programming
+🎓 B.Tech CSE | Narayana Engineering College.<br>
+💻 Web & Android Developer | Tech Enthusiast.<br>
+🚀 Driven by a passion for building impactful projects and solving real-world challenges.<br>
+📊 Exploring the worlds of AI, Cloud Computing, and Competitive Programming.<br>
+🔧 Currently sharpening my skills in full-stack development, cloud services, and smart app solutions.<br>
+💡 Always curious, always learning — aiming to turn ideas into meaningful innovations.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sini-sree-lakshmi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinisreelakshmi05@gmail.com) 
