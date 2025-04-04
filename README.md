@@ -4,7 +4,7 @@ Hi there! 👋 I'm Sree Lakshmi
 💻 Web & Android Developer | Tech Enthusiast.<br>
 🚀 Driven by a passion for building impactful projects and solving real-world challenges.<br>
 📊 Exploring the worlds of AI, Cloud Computing, and Competitive Programming.<br>
-🔧 Currently sharpening my skills in full-stack development, cloud services, and smart app solutions.<br>
+🔧 Currently sharpening my skills in Full-Stack Development, DSA, Cloud services, and smart app solutions.<br>
 💡 Always curious, always learning — aiming to turn ideas into meaningful innovations.<br>
 
 ## 🌐 Socials:
