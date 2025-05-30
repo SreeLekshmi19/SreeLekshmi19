@@ -1,10 +1,10 @@
 Hi there! 👋 I'm Sree Lakshmi
 
-🎓 B.Tech CSE | Narayana Engineering College.<br>
-💻 Web & Android Developer | Tech Enthusiast.<br>
-🚀 Driven by a passion for building impactful projects and solving real-world challenges.<br>
+🎓 B.Tech | Computer Science and Engineering <br>
+💻 Web Developer | UI/UX Designer | Tech Enthusiast.<br>
+🚀 Driven by a passion for building impactful, creative projects and solving real-world challenges.<br>
 📊 Exploring the worlds of AI, Cloud Computing, and Competitive Programming.<br>
-🔧 Currently sharpening my skills in Full-Stack Development, DSA, Cloud services, and smart solutions.<br>
+🔧 Currently sharpening my skills in UI/UX Design Full-Stack Development, DSA, Cloud services, and smart solutions.<br>
 
 
 ## 🌐 Socials:
